@@ -57,7 +57,7 @@ body {
 
 mark {
 	background-color: transparent;
-	color: inherit;
+	color: transparent;
 }
 
 input::-moz-focus-inner {
@@ -160,7 +160,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: transparent !important;
+			color: #9bf1ff !important;
 		}
 
 		a:active {
